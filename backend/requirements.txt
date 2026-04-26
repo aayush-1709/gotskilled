@@ -2,3 +2,7 @@ fastapi
 uvicorn[standard]
 google-genai
 pydantic
+email-validator
+qrcode
+python-dotenv
+firebase-admin
