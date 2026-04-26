@@ -1,0 +1,13 @@
+{
+  "name": "GotSkilled AI",
+  "description": "A sophisticated skills-first career platform that maps human potential to economic opportunity using AI-driven analysis.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "AI-powered skill mapping",
+    "Future readiness risk assessment",
+    "Global opportunity matching",
+    "AI Career Coaching"
+  ]
+}
